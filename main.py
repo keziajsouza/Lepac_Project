@@ -2,7 +2,7 @@ import acessarTabela
 
 
 def main():
-    print("início")
+    print("inicio")
     acessarTabela.acessar_dados_da_tabela()
 
 
